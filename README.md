@@ -7,4 +7,6 @@ have a file `SampleDonaters.xlsx` in the `app/bin` directory and execute the `ap
 
 ### Execution
 - so the `app/bin` directory will have the executables and the excel file, and then we can execute the executable, 
-- this will generate the pdf files in the format of firstname_lastname.pdf 
+- this will generate the pdf files in the format of firstname_lastname.pdf
+
+  Todo: update java version
